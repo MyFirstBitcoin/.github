@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 ## 🌟 Highlights & Impact
 
 - **Mission**: Empower individuals and communities with comprehensive Bitcoin knowledge.
-- **Bitcoin Diploma**: Our flagship [10-week program](https://miprimerbitcoin.io/en/my-first-bitcoin/) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
+- **Bitcoin Diploma**: Our flagship [10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
 - **Community Engagement**: Through our monthly Bitcoin Meetups, we engage and educate hundreds each month. Over 25,000 individuals have been educated through our workshops and online courses.
 - **Global Reach**: We aim to enhance financial literacy and self-sovereignty for a diverse audience, spanning from students to government officials. Our influence extends the globe and includes Guatemala, Costa Rica, Honduras, South Africa, Asia, and beyond.
 - **Vision for 2023**: Impact 250,000 students and expand our decentralized education network to 20 countries.
@@ -14,7 +14,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 
 ## 📚 Key Resources & Educational Content
 
-- [**Bitcoin Diploma - Student Workbook (v2023)**:](https://miprimerbitcoin.io/en/my-first-bitcoin/) A comprehensive guide into the world of Bitcoin.
+- [**Bitcoin Diploma - Student Workbook (v2023)**:](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) A comprehensive guide into the world of Bitcoin.
 - [**Message from the Founder**:](https://docs.google.com/document/d/1IcIxW350lXi0KZICk3cvYdG5rj-IHA3JouHmK_8g8-Y/edit?usp=sharing) Gain a deeper understanding of our roots, vision, and aspirations directly from the founder.
 - [**My First Bitcoin - One Pager Overview**:](https://drive.google.com/file/d/1yjYKES-Yo9gDqDcLvM1yMgHfj0j3P8CN/view?usp=sharing) A snapshot of our mission, objectives, and key collaborations.
 - [**Video with Dalia Platt**:](https://www.youtube.com/watch?v=jXmEGPjysFI) Watch the insightful discussion from [Access Tribe Bitcoin](https://www.youtube.com/@accesstribe).
