@@ -1,4 +1,4 @@
-# Mi Primer Bitcoin: Open-Source Hub for Bitcoin Education & Community
+# Mi Primer Bitcoin / My First Bitcoin: Open-Source Hub for Bitcoin Education & Community
 
 Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/). Our mission is to accelerate Bitcoin adoption and financial empowerment globally, with a special focus on El Salvador.
 
