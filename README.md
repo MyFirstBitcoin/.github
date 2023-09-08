@@ -31,6 +31,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
   - [**Human Rights Foundation**](https://hrf.org/)
   - [**Bitcoin Beach**](https://www.bitcoinbeach.com/)
 - **Partnerships**:
+  - [**The Bitcoin Office**](https://twitter.com/bitcoinofficesv)
   - [**El Salvador Ministerio De Educacion**](https://www.mined.gob.sv/)
 - **Community Collaborations**: Our impact is amplified through collaborations with local public schools, universities, and municipal offices across El Salvador.
 - **The Heart of Our Repository**: Bitcoin Diploma - Hosted on GitHub, this program showcases our dedication. We invite educators, developers, and Bitcoin enthusiasts to contribute, refine, and help in translating this living document.
