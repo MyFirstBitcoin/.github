@@ -19,7 +19,6 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 - [**Bitcoin Diploma - Student Workbook**:](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) A comprehensive guide into the world of Bitcoin.
 - [**Message from the Founder**:](https://docs.google.com/document/d/1IcIxW350lXi0KZICk3cvYdG5rj-IHA3JouHmK_8g8-Y/edit?usp=sharing) Gain a deeper understanding of our roots, vision, and aspirations directly from the founder.
 - [**My First Bitcoin - One Pager Overview**:](https://drive.google.com/file/d/1yjYKES-Yo9gDqDcLvM1yMgHfj0j3P8CN/view?usp=sharing) A snapshot of our mission, objectives, and key collaborations.
-- [**Video with Dalia Platt**:](https://www.youtube.com/watch?v=jXmEGPjysFI) Watch the insightful discussion from [Access Tribe Bitcoin](https://www.youtube.com/@accesstribe).
 - [**Mexico Adoption of Diploma**:](https://www.criptonoticias.com/educacion/celebran-primera-clase-bitcoin-sistema-educativo-mexico/) Learn about the Bitcoin Diploma class in the Mexican education system and our commitment to global expansion.
 - [**Founders Article on Bitcoin Education**:](https://bitcoinmagazine.com/culture/bitcoin-education-must-be-local) Insights on local importance in Bitcoin education.
 - [**Documentary Video**:](https://www.youtube.com/watch?v=eSIJfeP4EDU) Max DeMarco’s documentary showcasing our journey and impact.
