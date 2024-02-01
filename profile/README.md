@@ -30,6 +30,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 - **Direct Sponsors**:
   - [**Paystand**](http://paystand.org/)
   - [**Human Rights Foundation**](https://hrf.org/)
+  - [**Block**](https://block.xyz/)
   - [**Bitcoin Beach**](https://www.bitcoinbeach.com/)
 - **Partnerships**:
   - [**The Bitcoin Office**](https://twitter.com/bitcoinofficesv)
