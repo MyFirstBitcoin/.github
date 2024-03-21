@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 ## 🌟 Highlights & Impact
 
 - **Mission**: Empower individuals and communities with comprehensive Bitcoin knowledge.
-- **Bitcoin Diploma**: Our flagship [10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
+- **Bitcoin Diploma**: Our flagship [10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
 - **Community Engagement**: Through our monthly Bitcoin Meetups, we engage and educate hundreds each month. Over 25,000 individuals have been educated through our workshops and online courses.
 - **Global Reach**: We aim to enhance financial literacy and self-sovereignty for a diverse audience, spanning from students to government officials. Our influence extends the globe and includes Guatemala, Costa Rica, Honduras, South Africa, Asia, and beyond.
 - **Vision for 2023**: Impact 250,000 students and expand our decentralized education network to 20 countries.
@@ -14,7 +14,7 @@ Welcome to the official GitHub repository for [Mi Primer Bitcoin / My First Bitc
 
 ## 📚 Key Resources & Educational Content
 
-- [**Bitcoin Diploma - Student Workbook (v2023)**:](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) A comprehensive guide into the world of Bitcoin.
+- [**Bitcoin Diploma - Student Workbook - 2024**:](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024) A comprehensive guide into the world of Bitcoin.
 - [**Message from the Founder**:](https://docs.google.com/document/d/1IcIxW350lXi0KZICk3cvYdG5rj-IHA3JouHmK_8g8-Y/edit?usp=sharing) Gain a deeper understanding of our roots, vision, and aspirations directly from the founder.
 - [**My First Bitcoin - One Pager Overview**:](https://github.com/MyFirstBitcoin/.github/blob/497ff17d11c72b37456392144ebb8080db3a6475/My%20First%20Bitcoin-2024-Onepager.pdf) A snapshot of our mission, objectives, and key collaborations.
 - [**Mexico Adoption of Diploma**:](https://www.criptonoticias.com/educacion/celebran-primera-clase-bitcoin-sistema-educativo-mexico/) Learn about the Bitcoin Diploma class in the Mexican education system and our commitment to global expansion.
