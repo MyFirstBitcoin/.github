@@ -3,6 +3,8 @@
 Welcome to the official GitHub repository for [My First Bitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/). Our mission is to accelerate Bitcoin adoption and financial empowerment globally, with a special focus on El Salvador. 
 
 - [**Bitcoin Diploma - 2024**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
+- [**My First Bitcoin on X**](https://twitter.com/MyfirstBitcoin_)
+
 
 ## 🌟 Highlights & Impact
 
