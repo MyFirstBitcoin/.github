@@ -30,9 +30,9 @@ Welcome to the official GitHub repository for [My First Bitcoin](https://miprime
 
 - **Partnerships & Collaborations**: We're proud to collaborate with a variety of global entities. These partnerships amplify our impact and reach.
 - **Direct Sponsors**:
+  - [**Block**](https://block.xyz/)
   - [**Paystand**](http://paystand.org/)
   - [**Human Rights Foundation**](https://hrf.org/)
-  - [**Block**](https://block.xyz/)
   - [**Bitcoin Beach**](https://www.bitcoinbeach.com/)
 - **Partnerships**:
   - [**The Bitcoin Office**](https://twitter.com/bitcoinofficesv)
