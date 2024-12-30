@@ -2,14 +2,14 @@
 
 Welcome to the official GitHub repository for [My First Bitcoin](https://miprimerbitcoin.io/en/my-first-bitcoin/). Our mission is to accelerate Bitcoin adoption and financial empowerment globally, with a special focus on El Salvador. 
 
-- [**Bitcoin Diploma - 2024**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
+- [**Bitcoin Diploma - 2025**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025)
 - [**My First Bitcoin on X**](https://twitter.com/MyfirstBitcoin_)
 
 
 ## 🌟 Highlights & Impact
 
 - **Mission**: Empower individuals and communities with comprehensive Bitcoin knowledge.
-- [**Bitcoin Diploma - 2024**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024) Our flagship [10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
+- [**Bitcoin Diploma - 2025**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025) Our flagship [10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) that has been implemented worldwide. A deep dive into Bitcoin's history, technology, and its global impact.
 - **Community Engagement**: Through our monthly Bitcoin Meetups, we engage and educate hundreds each month. Over 25,000 individuals have been educated through our workshops and online courses.
 - **Global Reach**: We aim to enhance financial literacy and self-sovereignty for a diverse audience, spanning from students to government officials. Our influence extends the globe and includes Guatemala, Costa Rica, Honduras, South Africa, Asia, and beyond.
 - **Vision for 2023**: Impact 250,000 students and expand our decentralized education network to 20 countries.
