@@ -54,9 +54,7 @@ Welcome to the official GitHub repository for [My First Bitcoin](https://miprime
 
 - **Community & Collaboration**: MPB thrives on community input. Whether contributing to our codebase, assisting in translations, providing feedback on our curriculum, or supporting our mission through donations, there's a place for you in our community.
 - **Together, we can ensure that Bitcoin education is accurate, comprehensive, and universally accessible**.
-- **Telegram Groups**:
-  - **Volunteers**: Collaborate and get informed in the [MPB Public Telegram Group](https://t.me/+ovW4RGSeB4ZjZjRh)
-  - **Translator Collaboration**: [Request access from admin](https://t.me/+ovW4RGSeB4ZjZjRh)
-  - **Light Node Network**: [Request access from admin](https://t.me/+ovW4RGSeB4ZjZjRh)
+- **Volunteer Contact**:
+  - **Volunteers**: Collaborate and get informed [MPB Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLScBCDMO2LCyGw4A0UzVi4by82-m1yod4Zk3rgTWt_Stre5fDw/viewform)
 
 - **Community & Collaboration**: MPB thrives on community input. Whether contributing to our codebase, assisting in translations, providing feedback on our curriculum, or supporting our mission through donations, there's a place for you in our community.
