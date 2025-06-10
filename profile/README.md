@@ -145,4 +145,3 @@ Join our mission and make a difference:
 [Volunteer with us](https://myfirstbitcoin.io/the-project/volunteer/) - collaborate and get informed: [MPB Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLScBCDMO2LCyGw4A0UzVi4by82-m1yod4Zk3rgTWt_Stre5fDw/viewform)
 
 ---
-
