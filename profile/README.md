@@ -69,8 +69,6 @@ Today, MINED and The Bitcoin Office have taken the lead in the public school sec
 
 - [Beyond Borders](https://myfirstbitcoin.io/news/): Independent Bitcoin Educators are reshaping the world. Each month, they unite in the Node Network’s General Assembly to build a global, grassroots movement for independent, impartial, Bitcoin-only education.
 
-- [Documentary Video](https://www.youtube.com/watch?v=eSIJfeP4EDU): Max DeMarco’s documentary captures our mission in action. For real Bitcoin adoption, locals must understand why it matters. In this video, Max visits our office and classes, and learns about our vision.
-
 - [Preston Pysh Podcast](https://www.theinvestorspodcast.com/bitcoin-fundamentals/educating-the-world-on-bitcoin-john-dennehy/): Preston Pysh sits down with our Founder John Dennehy to unpack the story behind My First Bitcoin. From the origins of the non-profit to its growing impact and global reach -  this conversation dives deep into grassroots Bitcoin education.
 
 ---
