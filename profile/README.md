@@ -44,11 +44,10 @@ Through our independent and fast-growing [Node Network](https://myfirstbitcoin.i
 ## 🌠 Vision for 2025  
 We’re building infrastructure for the next era of decentralized Bitcoin education:
 
-- 20,000+ verified users and 50 online classrooms in the [MPB Online School](https://edu.myfirstbitcoin.io/)
+- 20,000+ verified users and 50 online classrooms in the [MFB Online School](https://edu.myfirstbitcoin.io/)
 - 25 languages available for download and 100 Light Node Directories
 - 1,000+ verified users in our [Community Hub](https://network.myfirstbitcoin.io)
 - Release of the Bitcoin Diploma 2026 and a new [Intro Class](https://l.facebook.com/l.php?u=https%3A%2F%2Fmyfirstbitcoin.io%2Fbitcoin-intro-class%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExRG1Hc0dlVWVEWEpHdlByeQEeuThCT4-vYuEP7vDfZrIpeD36JCLRRUBMbgMkocEhc__p4x8R5vzryQzunnY_aem_6X200aHumLJjFkaUTNRzIQ&h=AT3qFIiKp30wL__OGJdkCaRWmz5AmF5fZEbQIa0D2zgmcqi9zpOIoqTs4hj38uT9cdkvHAAEi6XN6zoivOHely4ZA9ZEbYLqlDjTJGca-Op6VD_DZDQT1r4-iwg2pn9P9gTBKpMMwb0JHhPQVdsQ-4c&__tn__=-UK*F) edition
-- Expand in-person meetups across El Salvador and support alumni to host their own
 - Continue surpassing 21,000 students taught and recruit more teacher trainers
 - Grow to 150+ active nodes in 60+ countries, launch 10 full nodes, support 2 Nodes organize Unconferences, and bring together 500+ global attendees
 
