@@ -1,7 +1,3 @@
-# readme.md
-
-## Collection: d8a5b9f7-c8c6-4704-80f8-59bb9e2a863b | Updated: 2026-05-04 | Published: True
-
 # My First Bitcoin: Open-Source Hub for Grassroots Bitcoin Education
 
 ## Welcome
