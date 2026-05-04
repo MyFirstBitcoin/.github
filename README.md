@@ -35,12 +35,12 @@ All programs are **open source**, modular, and designed for local adaptation.
 ### 1. Introduction to Bitcoin
 
 **For:** Anyone new to Bitcoin and money systems
-**Duration:** Self-paced (typically 1-3 hours for PDF/Audio, or 4-6 hours for video course)
+**Duration:** Self-paced (typically 1–3 hours for PDF/Audio, or 4–6 hours for video course)
 **Focus:** Why Bitcoin exists, how money works, and how to use Bitcoin safely
 
 A 7-module journey through monetary history, problems with today's system, and Bitcoin's response. No prerequisites. No jargon. Just clear thinking.
 
-**Start here:** <https://myfirstbitcoin.io/bitcoin-intro-class/>
+**Curriculum:** https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/introduction-to-bitcoin
 
 
 ---
@@ -48,10 +48,10 @@ A 7-module journey through monetary history, problems with today's system, and B
 ### 2. Bitcoin Diploma
 
 **For:** Individuals seeking comprehensive Bitcoin mastery
-**Duration:** 5-10 sessions (flexible delivery)
-**Focus:** Clear understanding of Bitcoin's history, technology, and societal implications
+**Duration:** 8–10 weeks (flexible delivery options: in-person, online cohort, or self-paced video)
+**Focus:** Deep understanding of Bitcoin's history, technology, and societal implications
 
-Our flagship program, live for years and continuously refined. The curriculum covers:
+Our flagship program, implemented worldwide and continuously refined. The curriculum covers:
 
 * What money is and how it evolved
 * The failures of legacy monetary systems
@@ -60,8 +60,7 @@ Our flagship program, live for years and continuously refined. The curriculum co
 
 The objective is **comprehension, not persuasion**.
 
-**Curriculum:** https://github.com/MyFirstBitcoin/curriculum
-**Latest release:** Bitcoin Diploma 26.04 (April 2026)
+**Curriculum:** https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma
 
 
 ---
@@ -74,7 +73,7 @@ The objective is **comprehension, not persuasion**.
 
 Designed for classrooms and community groups, making Bitcoin accessible to learners in this critical developmental window.
 
-**Curriculum:** https://github.com/MyFirstBitcoin/curriculum
+**Curriculum:** https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors
 
 
 ---
@@ -82,12 +81,12 @@ Designed for classrooms and community groups, making Bitcoin accessible to learn
 ### 4. Educator Training Program (ETP)
 
 **For:** Teachers, trainers, and community leaders
-**Duration:** A 3-session comprehensive certification pathway
+**Duration:** Comprehensive certification pathway
 **Focus:** How to teach Bitcoin effectively, adapt curriculum locally, and build sustainable education initiatives
 
 The ETP prepares educators with both content mastery and pedagogical skills. Graduates become part of our global network and lead Bitcoin education in their communities.
 
-**Program details:** Available in the Ed-Tech Outline collection
+**Program details:** <https://myfirstbitcoin.org/educators/>
 
 
 ---
@@ -207,6 +206,37 @@ The communities are the distribution layer. **We convene. Educators teach.**
 
 ---
 
+## Repository Structure
+
+Our GitHub organization is organized around **four core functions**: curriculum, community, infrastructure, and operations.
+
+### Curriculum & Education
+
+* **[mfb-curriculum](https://github.com/MyFirstBitcoin/curriculum)** — Single source of truth for all educational programs (Bitcoin Diploma, Introduction to Bitcoin, Bitcoin for Juniors, Educator Training Program, Bitcoin for Organizations). Contains markdown source files, translations, and release-managed versions.
+
+### Community & Network
+
+* **[Node-Network](https://github.com/MyFirstBitcoin/Node-Network)** — Documentation and coordination for the global Node Network (active in 36+ countries)
+* **[Light-Node-Directory](https://github.com/MyFirstBitcoin/Light-Node-Directory)** — Registry of Light Nodes (community-run education initiatives)
+* **[Full-Node-Directory](https://github.com/MyFirstBitcoin/Full-Node-Directory)** — Registry of Full Nodes (anchor communities)
+
+### Brand & Operations
+
+* **[mfb-brand](https://github.com/MyFirstBitcoin/mfb-brand)** — Brand guidelines, design assets, and organizational standards
+* **[.github](https://github.com/MyFirstBitcoin/.github)** — Organization-level README, community health files, and contribution guidelines
+
+### How to Use These Repositories
+
+* **Teaching the Diploma?** Start with [curriculum](https://github.com/MyFirstBitcoin/curriculum)
+* **Running a local node?** See [Node-Network](https://github.com/MyFirstBitcoin/Node-Network) and register in [Light-Node-Directory](https://github.com/MyFirstBitcoin/Light-Node-Directory)
+* **Building on our brand?** Reference [mfb-brand](https://github.com/MyFirstBitcoin/mfb-brand)
+* **Contributing?** See [.github](https://github.com/MyFirstBitcoin/.github) for guidelines
+
+All repositories are open-source and welcome community contributions, translations, and improvements.
+
+
+---
+
 ## Key Resources
 
 * **Official Curriculum:** https://github.com/MyFirstBitcoin/curriculum
@@ -214,8 +244,6 @@ The communities are the distribution layer. **We convene. Educators teach.**
 * **Community Hub:** https://network.myfirstbitcoin.io
 * **Public Roadmap:** https://roadmap.myfirstbitcoin.org
 * **News & Updates:** https://myfirstbitcoin.io/news/
-* **Founder's Message:** https://docs.google.com/document/d/1IcIxW350lXi0KZICk3cvYdG5rj-IHA3JouHmK_8g8-Y/edit
-* **Preston Pysh Podcast:** https://www.theinvestorspodcast.com/bitcoin-fundamentals/educating-the-world-on-bitcoin-john-dennehy/
 
 
 ---
@@ -278,7 +306,7 @@ Every SAT counts. Your donation directly supports:
 * Translation and localization of curriculum
 * Community events and unconferences
 
-**Donate:** <https://myfirstbitcoin.org/support-us/donate/>
+**Donate:** https://myfirstbitcoin.io/grassroot-donation/
 
 
 ---
@@ -290,7 +318,7 @@ We're grateful for the support of:
 * **Block** — Infrastructure and funding
 * **Paystand** — Technology and community partnership
 * **Human Rights Foundation** — Mission alignment
-* **#startsmall** — Community support
+* **#start small** — Community support
 * **OpenSats** — Bitcoin and open-source funding
 
 Collaboration is a force multiplier. We prioritize alignment over exposure.
