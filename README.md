@@ -1,4 +1,4 @@
-# 📘 My First Bitcoin: Official Open-Source Hub and Community for Grassroots Bitcoin Education
+# My First Bitcoin: Official Open-Source Hub and Community for Grassroots Bitcoin Education
 
 ## Welcome to the official GitHub of My First Bitcoin ## 
 We're a global and grassroots movement focused on open-source Bitcoin education. 
@@ -11,7 +11,7 @@ Everything we do is open source. Everything starts with education. Bitcoin Educa
 
 ---
 
-## 🌐 Please find here our presence on our different social media platforms;
+## Please find here our presence on our different social media platforms;
 
 - [X](https://x.com/MyfirstBitcoin_)
 - [Instagram](https://www.instagram.com/myfirstbitcoin.io/)
@@ -23,25 +23,25 @@ Everything we do is open source. Everything starts with education. Bitcoin Educa
 
 ---
 
-## 🚀 Highlights & Impact:
+## Highlights & Impact:
 
-### 🎯 Mission  
+### Mission  
 We’re here to empower individuals around the world – through grassroots, open-source Bitcoin education. We believe this is the path to a freer, more self-reliant future, where people truly understand money, sovereignty, and how to take control of their own financial lives.
 
-### 🎓 Bitcoin Diploma – 2025  
+### Bitcoin Diploma – 2025  
 Our [flagship 10-week program](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025), implemented across the globe, is 100% open source. We start with the basics: What is money? How did we get here? Why is Bitcoin different – and what does it actually solve? From monetary history to the technology and societal implications of Bitcoin, the Diploma gives learners the tools to think critically and understand Bitcoin's role in shaping a better future.
 
-### 🤝 Community Engagement  
+### Community Engagement  
 Alongside our monthly [Bitcoin Meetups](https://lu.ma/myfirstbitcoin) in San Salvador, we also host casual weekly Bitcoin meetups every Tuesday in San Salvador, each time in a different restaurant, café, or local venue – open to all.
 
 Through these efforts, we’ve connected and educated over 40,000 individuals through our Bitcoin Diploma classes, workshops, meetups, and online courses. The community is at the heart of everything we do.
 
-### 🌍 Global Reach  
+### Global Reach  
 Through our independent and fast-growing [Node Network](https://myfirstbitcoin.io/node-network-dashboard/) – active in over 36 countries with 64 projects – we bring Bitcoin education to classrooms, community centers, and institutions from Central America to South Africa, Southeast Asia, and beyond.
 
 ---
 
-## 🌠 Vision for 2025  
+## Vision for 2025  
 We’re building infrastructure for the next era of decentralized Bitcoin education:
 
 - 20,000+ verified users and 50 online classrooms in the [MPB Online School](https://edu.myfirstbitcoin.io/)
@@ -54,14 +54,14 @@ We’re building infrastructure for the next era of decentralized Bitcoin educat
 
 ---
 
-## 🏛️ Former Collaboration with Ministry of Education & Bitcoin Office  
+## Former Collaboration with Ministry of Education & Bitcoin Office  
 As of April 2025, we are no longer part of any active programs with the Ministry of Education (MINED) or The Bitcoin Office in El Salvador. We are deeply thankful for the opportunity to have contributed to the early development of Bitcoin education in public schools.
 
 Today, MINED and The Bitcoin Office have taken the lead in the public school sector, while we refocus even more on grassroots efforts – working directly with anyone who wants to teach Bitcoin, supporting our global community through our decentralized and independent Node Network.
 
 ---
 
-## 📚 Key Resources & Educational Content
+## Key Resources & Educational Content
 
 - [Bitcoin Diploma 2025](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025): In the Diploma we break down what money really is, where it comes from, and how Bitcoin fits into that story – because we believe education is the key to deeper understanding and building a better, more empowered world.
 
@@ -73,7 +73,7 @@ Today, MINED and The Bitcoin Office have taken the lead in the public school sec
 
 ---
 
-## 🤝 Collaborative Opportunities & Community Engagement
+## Collaborative Opportunities & Community Engagement
 
 **Partnerships & Collaborations:** We’re deeply grateful for every partnership - past and present. Each one has helped amplify our mission and expand our reach. At My First Bitcoin, we believe in collaboration over competition - because real change happens when we all work together.
 
@@ -95,13 +95,13 @@ Our impact is amplified through collaborations with local schools and universiti
 
 ---
 
-## 🧡 The Heart of Our Repository:
+## The Heart of Our Repository:
 
 Hosted openly here on GitHub, My First Bitcoin and the Bitcoin Diploma is a living, collaborative project – a reflection of our grassroots mission. We welcome educators, [translators](https://network.myfirstbitcoin.io/c/translation/translation-groups/17), developers, and Bitcoiners from around the world to contribute, adapt, and help us grow this global tool for financial empowerment. Let’s build the future of Bitcoin education -  together, and open source.
 
 ---
 
-## 🔓 Donors & Open-Source Commitment
+## Donors & Open-Source Commitment
 
 **Open-Source Commitment**
 
@@ -123,7 +123,7 @@ If you believe in open-source education and a more self-sovereign future - now�
 
 ---
 
-## 🤲 Get Involved
+## Get Involved
 
 **Community & Collaboration**
 
@@ -135,7 +135,7 @@ Let’s make sure Bitcoin education is accurate, inclusive, and accessible - for
 
 ---
 
-## 🙋 Join Us as a Volunteer
+## Join Us as a Volunteer
 
 We believe in the power of people - and the incredible impact passionate individuals can have. If you’re ready to contribute your time, skills, or energy, we’d love to have you on board.  
 Join our mission and make a difference:
