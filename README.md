@@ -252,13 +252,14 @@ All repositories are open-source and welcome community contributions, translatio
 
 ### Official Channels
 
-* **X:** https://x.com/MyfirstBitcoin_
-* **Instagram:** https://www.instagram.com/myfirstbitcoin.io/
-* **LinkedIn:** https://www.linkedin.com/company/76507818/
-* **Facebook:** https://www.facebook.com/groups/4429028287192828
-* **Nostr:** https://primal.net/p/npub17cyatz6z2dzcw6xehtcm9z45m76lde5smxdmyasvs00r4pqv863qrs4ml3
-* **YouTube:** https://www.youtube.com/@MyFirstBitcoin-SV
-* **TikTok:** https://www.tiktok.com/@myfirstbitcoin.io
+* **X:**  <https://x.com/MyfirstBitcoin_>
+* **Nostr**: npub17cyatz6z2dzcw6xehtcm9z45m76lde5smxdmyasvs00r4pqv863qrs4ml3
+* **YouTube**: <https://www.youtube.com/@myfirstbitcoinorg/videos>
+* **Instagram**: <https://www.instagram.com/myfirstbitcoinorg>
+* **Telegram**: <https://t.me/myfirstbitcoinorg/1>
+* **Facebook**: <https://www.facebook.com/share/FzN7rvJPHeg4xWUG/>
+* **LinkedIn**: <https://linkedin.com/company/myfirstbitcoinorg>
+* **TikTok**: <https://www.tiktok.com/@myfirstbitcoinorg>
 
 
 ---
